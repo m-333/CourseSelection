@@ -910,32 +910,32 @@
                                     <action selector="btnonay:" destination="2BY-fk-o0D" eventType="touchUpInside" id="q6z-Kd-Rh7"/>
                                 </connections>
                             </button>
-                            <stackView opaque="NO" contentMode="scaleToFill" ambiguous="YES" axis="vertical" distribution="fillEqually" translatesAutoresizingMaskIntoConstraints="NO" id="L9s-i4-5Mz">
-                                <rect key="frame" x="13" y="273" width="388" height="150"/>
+                            <stackView opaque="NO" contentMode="scaleToFill" axis="vertical" distribution="fillEqually" translatesAutoresizingMaskIntoConstraints="NO" id="L9s-i4-5Mz">
+                                <rect key="frame" x="0.0" y="273" width="414" height="150"/>
                                 <subviews>
                                     <stackView opaque="NO" contentMode="scaleToFill" distribution="fillEqually" translatesAutoresizingMaskIntoConstraints="NO" id="PuT-zE-yvg">
-                                        <rect key="frame" x="0.0" y="0.0" width="388" height="50"/>
+                                        <rect key="frame" x="0.0" y="0.0" width="414" height="50"/>
                                         <subviews>
                                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Ders Kodu" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="4Jr-h6-rWb">
-                                                <rect key="frame" x="0.0" y="0.0" width="97" height="50"/>
+                                                <rect key="frame" x="0.0" y="0.0" width="103.5" height="50"/>
                                                 <fontDescription key="fontDescription" type="system" pointSize="17"/>
                                                 <color key="textColor" systemColor="systemMintColor"/>
                                                 <nil key="highlightedColor"/>
                                             </label>
                                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Ders adı" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="ZL7-6D-9vd">
-                                                <rect key="frame" x="97" y="0.0" width="97" height="50"/>
+                                                <rect key="frame" x="103.5" y="0.0" width="103.5" height="50"/>
                                                 <fontDescription key="fontDescription" type="system" pointSize="17"/>
                                                 <color key="textColor" systemColor="systemMintColor"/>
                                                 <nil key="highlightedColor"/>
                                             </label>
                                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="kredi sayısı" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="75R-5L-Wl7">
-                                                <rect key="frame" x="194" y="0.0" width="97" height="50"/>
+                                                <rect key="frame" x="207" y="0.0" width="103.5" height="50"/>
                                                 <fontDescription key="fontDescription" type="system" pointSize="17"/>
                                                 <color key="textColor" systemColor="systemMintColor"/>
                                                 <nil key="highlightedColor"/>
                                             </label>
                                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Seç" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Agg-zJ-Bpw">
-                                                <rect key="frame" x="291" y="0.0" width="97" height="50"/>
+                                                <rect key="frame" x="310.5" y="0.0" width="103.5" height="50"/>
                                                 <fontDescription key="fontDescription" type="system" pointSize="17"/>
                                                 <color key="textColor" systemColor="systemMintColor"/>
                                                 <nil key="highlightedColor"/>
@@ -943,28 +943,28 @@
                                         </subviews>
                                     </stackView>
                                     <stackView opaque="NO" contentMode="scaleToFill" distribution="fillEqually" translatesAutoresizingMaskIntoConstraints="NO" id="wka-uh-KpB">
-                                        <rect key="frame" x="0.0" y="50" width="388" height="50"/>
+                                        <rect key="frame" x="0.0" y="50" width="414" height="50"/>
                                         <subviews>
                                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="122" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="8bC-vH-9dt">
-                                                <rect key="frame" x="0.0" y="0.0" width="97" height="50"/>
+                                                <rect key="frame" x="0.0" y="0.0" width="103.5" height="50"/>
                                                 <fontDescription key="fontDescription" type="system" pointSize="17"/>
                                                 <nil key="textColor"/>
                                                 <nil key="highlightedColor"/>
                                             </label>
                                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="İngilizce" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="wOk-30-Eb3">
-                                                <rect key="frame" x="97" y="0.0" width="97" height="50"/>
+                                                <rect key="frame" x="103.5" y="0.0" width="103.5" height="50"/>
                                                 <fontDescription key="fontDescription" type="system" pointSize="17"/>
                                                 <nil key="textColor"/>
                                                 <nil key="highlightedColor"/>
                                             </label>
                                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="3" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Mqf-s6-bij">
-                                                <rect key="frame" x="194" y="0.0" width="97" height="50"/>
+                                                <rect key="frame" x="207" y="0.0" width="103.5" height="50"/>
                                                 <fontDescription key="fontDescription" type="system" pointSize="17"/>
                                                 <nil key="textColor"/>
                                                 <nil key="highlightedColor"/>
                                             </label>
                                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Its-jh-E3t">
-                                                <rect key="frame" x="291" y="0.0" width="97" height="50"/>
+                                                <rect key="frame" x="310.5" y="0.0" width="103.5" height="50"/>
                                                 <state key="normal" title="Button"/>
                                                 <buttonConfiguration key="configuration" style="plain" title="+">
                                                     <fontDescription key="titleFontDescription" type="system" pointSize="30"/>
@@ -977,28 +977,28 @@
                                         </subviews>
                                     </stackView>
                                     <stackView opaque="NO" contentMode="scaleToFill" distribution="fillEqually" translatesAutoresizingMaskIntoConstraints="NO" id="DBc-z5-XTb">
-                                        <rect key="frame" x="0.0" y="100" width="388" height="50"/>
+                                        <rect key="frame" x="0.0" y="100" width="414" height="50"/>
                                         <subviews>
                                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="150" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="TuF-pv-zNY">
-                                                <rect key="frame" x="0.0" y="0.0" width="97" height="50"/>
+                                                <rect key="frame" x="0.0" y="0.0" width="103.5" height="50"/>
                                                 <fontDescription key="fontDescription" type="system" pointSize="17"/>
                                                 <nil key="textColor"/>
                                                 <nil key="highlightedColor"/>
                                             </label>
                                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Matematik-2" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="P1l-Qw-eMN">
-                                                <rect key="frame" x="97" y="0.0" width="97" height="50"/>
+                                                <rect key="frame" x="103.5" y="0.0" width="103.5" height="50"/>
                                                 <fontDescription key="fontDescription" type="system" pointSize="17"/>
                                                 <nil key="textColor"/>
                                                 <nil key="highlightedColor"/>
                                             </label>
                                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="5" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="oKR-FV-IwT">
-                                                <rect key="frame" x="194" y="0.0" width="97" height="50"/>
+                                                <rect key="frame" x="207" y="0.0" width="103.5" height="50"/>
                                                 <fontDescription key="fontDescription" type="system" pointSize="17"/>
                                                 <nil key="textColor"/>
                                                 <nil key="highlightedColor"/>
                                             </label>
                                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="u9N-1Q-5t7">
-                                                <rect key="frame" x="291" y="0.0" width="97" height="50"/>
+                                                <rect key="frame" x="310.5" y="0.0" width="103.5" height="50"/>
                                                 <state key="normal" title="Button"/>
                                                 <buttonConfiguration key="configuration" style="plain" title="+">
                                                     <fontDescription key="titleFontDescription" type="system" pointSize="30"/>
@@ -1025,6 +1025,8 @@
                         <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                         <constraints>
                             <constraint firstItem="Hum-Eq-hrU" firstAttribute="top" secondItem="L9s-i4-5Mz" secondAttribute="bottom" constant="235" id="0sr-SE-qiE"/>
+                            <constraint firstItem="maQ-np-JAf" firstAttribute="trailing" secondItem="L9s-i4-5Mz" secondAttribute="trailing" id="IS7-u3-2ln"/>
+                            <constraint firstItem="L9s-i4-5Mz" firstAttribute="leading" secondItem="maQ-np-JAf" secondAttribute="leading" id="JA7-Pw-3aj"/>
                             <constraint firstItem="L9s-i4-5Mz" firstAttribute="top" secondItem="maQ-np-JAf" secondAttribute="top" constant="185" id="NT1-nd-CR0"/>
                             <constraint firstItem="maQ-np-JAf" firstAttribute="bottom" secondItem="Hum-Eq-hrU" secondAttribute="bottom" constant="173" id="a6P-UN-xWo"/>
                             <constraint firstItem="Hum-Eq-hrU" firstAttribute="leading" secondItem="maQ-np-JAf" secondAttribute="leading" constant="32" id="azy-Vl-M3X"/>
